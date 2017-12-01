@@ -1,0 +1,11 @@
+User-agent: *
+Allow:/about/
+Allow:/contact/
+Disallow:/include/
+Allow:/job/
+Allow:/product/
+Allow:/templates/
+Disallow:/templates/
+Disallow:/upload/
+Allow:index.html
+sitemap:http://www.fralychen.com/sitemap.xml
